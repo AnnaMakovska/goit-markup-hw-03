@@ -64,6 +64,7 @@ img {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  max-width: 496px;
 }
 .h-two {
   font-size: 36px;
@@ -97,6 +98,10 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 /* logo */
 .logo {

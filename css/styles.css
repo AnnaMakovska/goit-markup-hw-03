@@ -154,29 +154,34 @@ img {
 }
 
 .conteiner {
-  width: 1128px;
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
 }
 .page-header-conteiner {
   display: flex;
+  
 }
 .navigation {
   display: flex;
+  align-items: center;
+  padding: 24px 0;
 }
 .navigation-list {
   display: flex;
-  column-gap: 40px;
-  align-items: center;
-  margin-left: 76px;
+  gap: 40px;
 }
 .address-list {
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
+}
+.header-logo {
+  margin-right: 76px;
 }
 .header {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  border-bottom: 1px solid #E7E9FC;
 }
 .hero {
   height: 600px;

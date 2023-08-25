@@ -89,6 +89,9 @@ img {
   font-weight: 500;
   letter-spacing: 0.02em;
   padding-top: 24px; 
+
+}
+.nav-link {
   padding-bottom: 24px;
 }
 .navigation-list-item {

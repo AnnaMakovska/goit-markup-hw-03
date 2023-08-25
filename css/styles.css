@@ -158,14 +158,14 @@ img {
   overflow: hidden;
 }
 
-.conteiner {
+.container {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
 }
-.page-header-conteiner {
+.page-header-container {
   display: flex;
   
 }
@@ -208,7 +208,7 @@ img {
 }
 .advantages-list {
   display: flex;
-  column-gap: 24px;
+  gap: 24px;
   
 }
 .advantages-item {

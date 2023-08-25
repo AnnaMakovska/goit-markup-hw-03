@@ -172,11 +172,14 @@ img {
 .navigation {
   display: flex;
   align-items: center;
-  padding: 24px 0;
+ 
 }
 .navigation-list {
   display: flex;
   gap: 40px;
+}
+.navigation-list-item {
+  padding: 24px 0;
 }
 .address-list {
   display: flex;
@@ -220,18 +223,17 @@ img {
 /* OUR TEAM */
 .team-list {
   display: flex;
-  justify-content: space-between;
+  gap: 24px;
 }
 .team .h-two {
   margin-bottom: 72px;
 }
 .team-item .h-three {
-  text-align: center;
   margin-bottom: 8px;
 }
-.team-text{
+.container-team-text {
   text-align: center;
-  margin-bottom: 32px;
+  margin-bottom: 32px 0;
 }
 .team-item img {
   margin-bottom: 32px;

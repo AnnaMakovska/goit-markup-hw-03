@@ -202,12 +202,17 @@ img {
 }
 .hero {
   height: 600px;
-  text-align: center;
   padding-top: 188px;
   padding-bottom: 188px;
 }
 .h-one {
   margin-bottom: 48px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero-button {
+  margin-left: auto;
+  margin-right: auto;
 }
 .hero-button {
   border-radius: 4px;
